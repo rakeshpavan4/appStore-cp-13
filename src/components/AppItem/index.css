@@ -9,6 +9,8 @@
   align-items: center;
   border-radius: 5px;
   flex-wrap: wrap;
+  margin-left: 10px;
+  margin-bottom: 10px;
 }
 .image {
   height: 50px;

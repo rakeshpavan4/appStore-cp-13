@@ -14,4 +14,24 @@
 }
 .appslist {
   display: flex;
+  flex-wrap: wrap;
+}
+.search-input-container {
+  display: flex;
+  align-items: center;
+  height: 30px;
+  background-color: transparent;
+  border: 1px solid #7b8794;
+}
+.icon {
+  height: 20px;
+}
+.search-input {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.applist {
+  list-style-type: none;
+  display: flex;
 }
