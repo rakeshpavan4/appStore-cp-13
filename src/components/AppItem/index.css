@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.appItemlist {
+  height: 150px;
+  width: 150px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  flex-wrap: wrap;
+}
+.image {
+  height: 50px;
+  width: 50px;
+}
